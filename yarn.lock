@@ -4620,6 +4620,10 @@ readable-stream@^2.0.1, readable-stream@^2.2.2, readable-stream@~2.3.6:
     string_decoder "~1.1.1"
     util-deprecate "~1.0.1"
 
+"recoil@https://github.com/facebookexperimental/Recoil.git#nightly":
+  version "0.0.13"
+  resolved "https://github.com/facebookexperimental/Recoil.git#99793426a5f11df1a26bbcc832bc2f30a8ba0e72"
+
 regenerate-unicode-properties@^8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/regenerate-unicode-properties/-/regenerate-unicode-properties-8.2.0.tgz#e5de7111d655e7ba60c057dbe9ff37c87e65cdec"
